@@ -49,12 +49,6 @@ I am Trilochan Aryal, a software engineer from Nepal.
 - ![REST](https://img.shields.io/badge/-REST-lightgrey?style=flat-square&logo=rest)
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=flat-square&logo=graphql)
 
-# 🔭 Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=trylow10&theme=dark" />
-</div>
-
 # Profile Visit 
 <div align="left">
     <img height="50px" src="https://profile-counter.glitch.me/trylow10/count.svg"/>
