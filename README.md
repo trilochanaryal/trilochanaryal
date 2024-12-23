@@ -1,55 +1,53 @@
-# Namaste 
-I am Trilochan Aryal, a software engineer from Nepal.
+Namaste 🙏, I'm **Trilochan Aryal**, a Software Engineer based in Kathmandu, Nepal 🇳🇵  
 
-# 🛠 Tech Stack
+### About Me  
 
-> Skills
+I enjoy solving complex problems, delivering software solutions, and continuously exploring open-source projects to grow as a developer.  
 
-- 🔭 **Back-end:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) 
-  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php) 
-  ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-  ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+### ✍️ My Blogs 
 
+- **[Continuous integration (CI) with GitHub Actions](https://medium.com/@aryaltrylowchan](https://medium.com/@Trilochanaryal/continuous-integration-ci-with-github-actions-2dc7f9cf2491)):**  
+- **[Managing Asynchronous Remote Data Using TanStack Query](https://medium.com/@Trilochanaryal/managing-asynchronous-remote-data-using-tanstack-query-e57562762015)**
+- **[Rendering in browser](https://medium.com/@Trilochanaryal/rendering-in-browser-e6e0e9e1c738)**
+
+Stay tuned **[medium](https://medium.com/@Trilochanaryal)** | **[portfolio](https://atrilochan.com.np)** 
+
+### Technical Skills  
   
-- 👯 **Front-end:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3) 
-  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-white?style=flat-square&logo=tailwind-css)
+- **Language**: Javascript, Typescript, PHP, Python  
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Nest.js, Laravel  
+- **Database**: PostgreSQL, MongoDB, MySQL  
+- **Platform & Tools**: Docker, GitHub Actions, AWS, Vercel  
+
+### Featured Projects  
   
+- **[Terminal Style Portfolio](https://trylow-terminal-portfolio.vercel.app/):** A terminal-based portfolio using **jQuery.terminal**.  
+- **[HEMD](https://hemd.vercel.app/):** A profile website for the HEMD research group built with **Next.js**.  
+- **[Trip to Kailash](https://mtkailashtrip.com/):** A dynamic tour booking app powered by **Strapi CMS**, **Next.js**, and **Postgres**.  
+- **[Jobhub](https://github.com/trylow10/jobhub):** A LinkedIn-like platform for job finding and hiring using **MERN** and **Elasticsearch**.  
+- **[Perditlizer](https://github.com/trylow10/Crop-fertilizer-prediction):** A crop fertilizer prediction app built with **Python**.  
+- **[Product Management System](https://github.com/trylow10/pmsV1):** Task and inventory management for cloth sheet production using **Next.js**.  
+
+### Currently Exploring  
   
-- ⚙️ **Others:**  
-  ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git) 
-  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis) 
-  ![WebSockets](https://img.shields.io/badge/-WebSockets-blue?style=flat-square&logo=websocket) 
-  ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-green?style=flat-square&logo=elastic-stack) 
-  ![Loki Stack](https://img.shields.io/badge/-Loki_Stack-green?style=flat-square&logo=loki) 
-  ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka) 
-  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes) 
-  ![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=nginx)
+how not to suck at coding
 
-  
-- 💻 **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+### Let's Connect  
 
-- 🔨 **Editors:**  
-  ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code) 
-  ![Vim](https://img.shields.io/badge/-Vim-green?style=flat-square&logo=vim) 
-  
+| **Email** | **LinkedIn** | **Facebook** | **Instagram** | **Telegram** | **Twitter** | **Medium** |
+|-----------|--------------|--------------|---------------|--------------|-------------|------------|
+| [Trilochan Aryal](mailto:aryaltrylowchan@gmail.com) | [Trilochan Aryal](https://www.linkedin.com/in/trilochanaryal/) | [Trilochan Aryal](https://facebook.com/trylow.arl) | [Trilochan Aryal](https://instagram.com/trylow.arl) | [Trilochan Aryal](https://t.me/trylow) | [Trilochan Aryal](https://x.com/TrilochanArl) | [Trilochan Aryal](https://medium.com/@Trilochanaryal) |
 
-> API
+<table align="left">
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=trilochanaryal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    </td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=trilochanaryal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />    </td>
+  </tr>
+</table>
 
-- ![REST](https://img.shields.io/badge/-REST-lightgrey?style=flat-square&logo=rest)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=flat-square&logo=graphql)
-
-# Profile Visit 
-<div align="left">
-    <img height="50px" src="https://profile-counter.glitch.me/trylow10/count.svg"/>
-</div> 
+<div align="left">  
+    <img height="50px" src="https://profile-counter.glitch.me/trilochanaryal/count.svg"/>  
+</div>
